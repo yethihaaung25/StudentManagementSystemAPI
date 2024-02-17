@@ -1,0 +1,343 @@
+{
+	"info": {
+		"_postman_id": "803acb8c-b081-4260-b213-3738cc6e86c1",
+		"name": "StudentManagementSystemAPI",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "11849353"
+	},
+	"item": [
+		{
+			"name": "StudentRegister",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\": \"Ye Thiha Aung\",\r\n    \"email\": \"yethihaaung.mc@gmail.com\",\r\n    \"password\": \"Ye@12345\",\r\n    \"confirmPassword\": \"Ye@12345\"\r\n}"
+				},
+				"url": {
+					"raw": "https://localhost:7108/api/student/register",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7108",
+					"path": [
+						"api",
+						"student",
+						"register"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "StudentLogin",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n   \"email\": \"yethihaaung1996.mc@gmail.com\",\r\n    \"password\": \"Ye@12345\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7108/api/student/login",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7108",
+					"path": [
+						"api",
+						"student",
+						"login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "AddClass",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MDgxOTM0MDAsImlzcyI6InlldGhpaGFhdW5nMTk5Ni5tY0BnbWFpbC5jb20iLCJhdWQiOiJ5ZXRoaWhhYXVuZzE5OTYubWNAZ21haWwuY29tIn0.UkDtky4112do8C9b6pVxwu988hjuZ57WRLNsrGAeUHM",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\" : \"Java Class\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7108/api/class/studentclass",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7108",
+					"path": [
+						"api",
+						"class",
+						"studentclass"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "AddSubject",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MDgxOTM0MDAsImlzcyI6InlldGhpaGFhdW5nMTk5Ni5tY0BnbWFpbC5jb20iLCJhdWQiOiJ5ZXRoaWhhYXVuZzE5OTYubWNAZ21haWwuY29tIn0.UkDtky4112do8C9b6pVxwu988hjuZ57WRLNsrGAeUHM",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\" : \"J2EE\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7108/api/class/studentsubject",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7108",
+					"path": [
+						"api",
+						"class",
+						"studentsubject"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "AddClassDetail",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MDgxOTIzNjYsImlzcyI6InlldGhpaGFhdW5nMTk5Ni5tY0BnbWFpbC5jb20iLCJhdWQiOiJ5ZXRoaWhhYXVuZzE5OTYubWNAZ21haWwuY29tIn0.AXYEFBBpBXNt3FLInTTB2Q8ydIJjs4ENNJxgr3Y6Jh8",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"StudentId\" : \"cc64adbc-be50-4c6d-8f1c-11b4fc383790\",\r\n    \"ClassName\" : \"Java Class\",\r\n    \"SubjectName\" : [\"J2EE\",\"Asp.Net MVC\"]\r\n}"
+				},
+				"url": {
+					"raw": "https://localhost:7108/api/class/studentclassdetail",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7108",
+					"path": [
+						"api",
+						"class",
+						"studentclassdetail"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetStudentList",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MDgxOTk0MjAsImlzcyI6InlldGhpaGFhdW5nMTk5Ni5tY0BnbWFpbC5jb20iLCJhdWQiOiJ5ZXRoaWhhYXVuZzE5OTYubWNAZ21haWwuY29tIn0.f95naTirAhsf34HNT7y27rviWMBKmxq-QoWX_Bvshg0",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"StudentId\" : \"cc64adbc-be50-4c6d-8f1c-11b4fc383790\"\r\n}"
+				},
+				"url": {
+					"raw": "https://localhost:7108/api/class/studentlist",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7108",
+					"path": [
+						"api",
+						"class",
+						"studentlist"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DeleteSubjectFromClassDetail",
+			"request": {
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MDgxOTQzNDQsImlzcyI6InlldGhpaGFhdW5nMTk5Ni5tY0BnbWFpbC5jb20iLCJhdWQiOiJ5ZXRoaWhhYXVuZzE5OTYubWNAZ21haWwuY29tIn0.kcHY832saqxEf1iyXmuaaZai1zmapEObnVw8Zkk5BDA",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"StudentId\" : \"cc64adbc-be50-4c6d-8f1c-11b4fc383790\",\r\n    \"ClassName\" : \".Net Class\",\r\n    \"SubjectName\" : [\r\n        \"Asp.Net MVC\"\r\n    ]\r\n}"
+				},
+				"url": {
+					"raw": "https://localhost:7108/api/class/subjectdelete",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7108",
+					"path": [
+						"api",
+						"class",
+						"subjectdelete"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "StudentDelete",
+			"request": {
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MDgxOTk0MjAsImlzcyI6InlldGhpaGFhdW5nMTk5Ni5tY0BnbWFpbC5jb20iLCJhdWQiOiJ5ZXRoaWhhYXVuZzE5OTYubWNAZ21haWwuY29tIn0.f95naTirAhsf34HNT7y27rviWMBKmxq-QoWX_Bvshg0",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"StudentId\" : \"cc64adbc-be50-4c6d-8f1c-11b4fc383790\"\r\n}"
+				},
+				"url": {
+					"raw": "https://localhost:7108/api/class/studentdelete",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7108",
+					"path": [
+						"api",
+						"class",
+						"studentdelete"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "UpdateSubject",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MDgxOTM0MDAsImlzcyI6InlldGhpaGFhdW5nMTk5Ni5tY0BnbWFpbC5jb20iLCJhdWQiOiJ5ZXRoaWhhYXVuZzE5OTYubWNAZ21haWwuY29tIn0.UkDtky4112do8C9b6pVxwu988hjuZ57WRLNsrGAeUHM",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Name\" : \"Vue X\"\r\n}"
+				},
+				"url": {
+					"raw": "https://localhost:7108/api/class/studentsubjectupdate/45c970e8-5e9e-43a1-9d62-c01b52e7ca59",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7108",
+					"path": [
+						"api",
+						"class",
+						"studentsubjectupdate",
+						"45c970e8-5e9e-43a1-9d62-c01b52e7ca59"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
