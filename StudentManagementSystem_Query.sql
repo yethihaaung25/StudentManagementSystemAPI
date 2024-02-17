@@ -1,0 +1,38 @@
+
+
+	--CREATE DATABASE StudentManagementSystem
+
+	USE	StudentManagementSystem
+
+	CREATE TABLE Students
+	(
+		ID			VARCHAR(50)	NOT NULL PRIMARY KEY,
+		Name		NVARCHAR(100) NOT NULL,
+		Email		VARCHAR(50) NOT NULL,
+		Password	VARCHAR(255) NOT NULL,
+	)
+
+
+
+	CREATE TABLE Classes
+	(
+		ID			VARCHAR(50) NOT NULL PRIMARY KEY,
+		Name		VARCHAR(100) NOT NULL,
+	)
+
+	CREATE TABLE Subjects
+	(
+		ID			VARCHAR(50) NOT NULL PRIMARY KEY,
+		Name		VARCHAR(100) NOT NULL
+	)
+
+	CREATE TABLE ClassDetails
+	(
+		ID			VARCHAR(50) NOT NULL PRIMARY KEY,
+		Subject_ID	VARCHAR(50) NOT NULL,
+		Class_ID	VARCHAR(50) NOT NULL,	
+		Student_ID	VARCHAR(50) NOT NULL,
+		FOREIGN KEY (Student_ID) REFERENCES Students(ID),
+		FOREIGN KEY (Subject_ID) REFERENCES Subjects(ID),
+		FOREIGN KEY (Class_ID) REFERENCES Classes(ID)
+	)

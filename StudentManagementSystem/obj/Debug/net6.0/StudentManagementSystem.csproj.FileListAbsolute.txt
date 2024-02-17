@@ -1,0 +1,152 @@
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.csproj.AssemblyReference.cache
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.AssemblyInfoInputs.cache
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.AssemblyInfo.cs
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.csproj.CoreCompileInputs.cache
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.RazorAssemblyInfo.cache
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.RazorAssemblyInfo.cs
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\appsettings.Development.json
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\appsettings.json
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\StudentManagementSystem.staticwebassets.runtime.json
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\StudentManagementSystem.exe
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\StudentManagementSystem.deps.json
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\StudentManagementSystem.runtimeconfig.json
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\StudentManagementSystem.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\StudentManagementSystem.pdb
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\BCrypt.Net-Core.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Humanizer.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\staticwebassets.build.json
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\staticwebassets.development.json
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.StudentManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.build.StudentManagementSystem.props
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StudentManagementSystem.props
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StudentManagementSystem.props
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\scopedcss\bundle\StudentManagementSystem.styles.css
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\scopedcss\projectbundle\StudentManagementSystem.bundle.scp.css
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.csproj.CopyComplete
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\refint\StudentManagementSystem.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.pdb
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.genruntimeconfig.cache
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\ref\StudentManagementSystem.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Code\.Net Core Practise\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\appsettings.Development.json
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\appsettings.json
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\StudentManagementSystem.staticwebassets.runtime.json
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\StudentManagementSystem.exe
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\StudentManagementSystem.deps.json
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\StudentManagementSystem.runtimeconfig.json
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\StudentManagementSystem.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\StudentManagementSystem.pdb
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\BCrypt.Net-Core.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Humanizer.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.csproj.AssemblyReference.cache
+D:\Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.AssemblyInfoInputs.cache
+D:\Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.AssemblyInfo.cs
+D:\Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.csproj.CoreCompileInputs.cache
+D:\Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.RazorAssemblyInfo.cache
+D:\Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.RazorAssemblyInfo.cs
+D:\Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\staticwebassets.build.json
+D:\Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\staticwebassets.development.json
+D:\Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.StudentManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.build.StudentManagementSystem.props
+D:\Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StudentManagementSystem.props
+D:\Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StudentManagementSystem.props
+D:\Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\scopedcss\bundle\StudentManagementSystem.styles.css
+D:\Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\scopedcss\projectbundle\StudentManagementSystem.bundle.scp.css
+D:\Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\StudentM.D74F523C.Up2Date
+D:\Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\refint\StudentManagementSystem.dll
+D:\Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.pdb
+D:\Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.genruntimeconfig.cache
+D:\Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0\ref\StudentManagementSystem.dll

@@ -1,0 +1,193 @@
+[
+  {
+    "ContainingType": "StudentManagementSystem.Controllers.ClassController",
+    "Method": "StudentSubjectUpdate",
+    "RelativePath": "api/class/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "subjectViewModel",
+        "Type": "StudentManagementSystem.Models.ViewModel.SubjectViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentManagementSystem.Controllers.ClassController",
+    "Method": "ClassDetailSubjectRemove",
+    "RelativePath": "api/class/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "classDetailViewModel",
+        "Type": "StudentManagementSystem.Models.ViewModel.ClassDetailViewModel",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentManagementSystem.Controllers.ClassController",
+    "Method": "StudentClass",
+    "RelativePath": "api/class/studentclass",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "classViewModel",
+        "Type": "StudentManagementSystem.Models.ViewModel.ClassViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentManagementSystem.Controllers.ClassController",
+    "Method": "StudentClassDetails",
+    "RelativePath": "api/class/studentclassdetail",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "classDetailViewModel",
+        "Type": "StudentManagementSystem.Models.ViewModel.ClassDetailViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentManagementSystem.Controllers.ClassController",
+    "Method": "StudentDelete",
+    "RelativePath": "api/class/studentdelete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentDeleteViewModel",
+        "Type": "StudentManagementSystem.Models.ViewModel.StudentGetIdViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentManagementSystem.Controllers.ClassController",
+    "Method": "GetStudentsWithSubjects",
+    "RelativePath": "api/class/studentlist",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentGetIdViewModel",
+        "Type": "StudentManagementSystem.Models.ViewModel.StudentGetIdViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentManagementSystem.Controllers.ClassController",
+    "Method": "StudentSubject",
+    "RelativePath": "api/class/studentsubject",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "subjectViewModel",
+        "Type": "StudentManagementSystem.Models.ViewModel.SubjectViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentManagementSystem.Controllers.ClassController",
+    "Method": "StudentSubjectUpdate",
+    "RelativePath": "api/class/studentsubjectupdate/{id}",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "subjectViewModel",
+        "Type": "StudentManagementSystem.Models.ViewModel.SubjectViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentManagementSystem.Controllers.ClassController",
+    "Method": "ClassDetailSubjectRemove",
+    "RelativePath": "api/class/subjectdelete",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "classDetailViewModel",
+        "Type": "StudentManagementSystem.Models.ViewModel.ClassDetailViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentManagementSystem.Controllers.StudentController",
+    "Method": "StudentLogin",
+    "RelativePath": "api/Student/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginViewModel",
+        "Type": "StudentManagementSystem.Models.ViewModel.LoginViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentManagementSystem.Controllers.StudentController",
+    "Method": "StudentRegister",
+    "RelativePath": "api/Student/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentViewModel",
+        "Type": "StudentManagementSystem.Models.ViewModel.StudentViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
